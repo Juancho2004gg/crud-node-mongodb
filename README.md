@@ -7,4 +7,5 @@ Aplicacion de tareas escrita con:
 -Morgan
 -Ejs
 -Bootstrap4
-Con opciones como: Done, Delete y Edit
+Con opciones como: Done, Delete y Edit.
+Créditos a FaztWeb
